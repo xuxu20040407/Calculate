@@ -7,6 +7,6 @@
 -----
 This item is a first-grade gift for my sister!
 
-Go to [this link] (https://github.com/xuxu20040407/Calculate/tree/master/app/release) to download the apk file without permission.
+Go to [this link](https://github.com/xuxu20040407/Calculate/tree/master/app/release) to download the apk file without permission.
 
 After entering the interface, you can select the total number of questions, the number of questions per row, and the number of addition and subtraction. Click Confirm to jump to the preview screen. It's worth noting that if you want to export a PDF, the questions on the PDF may not be the same, but the three generation parameters above are the same.
